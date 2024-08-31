@@ -1,0 +1,6 @@
+@PakShavad6_HostAddress = http://localhost:5185
+
+GET {{PakShavad6_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
